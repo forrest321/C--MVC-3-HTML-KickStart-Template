@@ -1,4 +1,6 @@
-MVC 3 template using Razor, EF, and HTML KickStart from http://www.99lime.com/
+Basic MVC 3 project using Razor, EF, and HTML KickStart from http://www.99lime.com/
+
+This is a basic MVC3 app with the default layout containing the framework created by HTML KickStart.
 
 HTML KickStart http://www.99lime.com/ added on 2/27/12
 
