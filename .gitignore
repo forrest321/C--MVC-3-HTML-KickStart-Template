@@ -1,2 +1,4 @@
 
 *.suo
+/_ReSharper.MVC3KickstartTemplate
+/MVC3KickstartTemplate/obj
